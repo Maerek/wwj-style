@@ -1,7 +1,7 @@
 meta {
 	title: "wwj-style";
 	description: "Renders objects from wwj paint style";
-	version: "0.1_2025-04-10";
+	version: "0.2_2025-04-10";
 	/* icon: "link" */
 	author: "Maerek (spam46200)";
 	link: "https://github.com/Maerek/wwj-style";
@@ -39,7 +39,7 @@ node[amenity=parcel_locker][brand="DPD Pickup Station"] {
 }
 
 node[amenity=parcel_locker][brand="DHL POP BOX"] {
-	icon-image: "dhl.png";
+	icon-image: "dhl2.png";
 	set icon_z17;
 }
 
@@ -54,16 +54,16 @@ node[amenity=parcel_locker][brand="Mebox"] {
 }
 
 node[amenity=parcel_locker][brand="Szybkomat"] {
-	icon-image: "inpost.jpg";
+	icon-image: "leroymerlin.png";
 	set icon_z17;
 }
 
 node[amenity=parcel_locker][brand="Castomat"] {
-	icon-image: "inpost.jpg";
+	icon-image: "castorama.jpg";
 	set icon_z17;
 }
 
 node[amenity=parcel_locker][brand="Aliexpress"] {
-	icon-image: "inpost.jpg";
+	icon-image: "aliexpress.png";
 	set icon_z17;
 }
