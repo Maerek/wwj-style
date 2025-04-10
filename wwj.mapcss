@@ -1,0 +1,69 @@
+meta {
+	title: "wwj-style";
+	description: "Renders objects from wwj paint style";
+	version: "0.1_2025-04-10";
+	/* icon: "link" */
+	author: "Maerek (spam46200)";
+	link: "https://github.com/Maerek/wwj-style";
+	min-josm-version: "19000";
+}
+
+node[amenity=parcel_locker][brand="Paczkomat InPost"] {
+	icon-image: "inpost.jpg";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Lodówkomat InPost"] {
+	icon-image: "inpost.jpg";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Appkomat InPost"] {
+	icon-image: "inpost.jpg";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Orlen Paczka"] {
+	icon-image: "orlen_paczka.png";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Allegro One Box"] {
+	icon-image: "onebox.png";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="DPD Pickup Station"] {
+	icon-image: "dpd_pickup.png";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="DHL POP BOX"] {
+	icon-image: "dhl.png";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Pocztex"] {
+	icon-image: "pocztex.jpg";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Mebox"] {
+	icon-image: "mediaexpert.png";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Szybkomat"] {
+	icon-image: "inpost.jpg";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Castomat"] {
+	icon-image: "inpost.jpg";
+	set icon_z17;
+}
+
+node[amenity=parcel_locker][brand="Aliexpress"] {
+	icon-image: "inpost.jpg";
+	set icon_z17;
+}
