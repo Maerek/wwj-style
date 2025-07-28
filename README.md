@@ -3,4 +3,4 @@
 Chciałbym przeprosić wszystkich użytkowników za zmianę linku do aktualnej wersji.
 
 Wklej poniższy link w edytorze JOSM dla uzyskania najnowszej wersji stylu
-https://github.com/Maerek/wwj-style/wwj_style.zip
+https://github.com/Maerek/wwj-style/raw/refs/heads/main/wwj_style.zip
